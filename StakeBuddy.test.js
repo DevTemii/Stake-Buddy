@@ -1,0 +1,4 @@
+/*
+  Placeholder test file for StakeBuddy contract.
+  Noah AI will generate proper tests.
+*/
