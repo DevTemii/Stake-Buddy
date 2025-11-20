@@ -1,0 +1,4 @@
+/*
+  Placeholder deploy script for StakeBuddy.
+  Noah AI will generate deployment code for Celo Alfajores.
+*/
